@@ -1,0 +1,430 @@
+{
+  "@@last_modified": "2020-09-29T13:16:35.952019",
+  "@@locale": "ru",
+  "settingsPointsToIncreaseTitle": "Шаг изменения очков",
+  "@settingsPointsToIncreaseTitle": {
+    "description": "Settings screen. Title for add points on single tap",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsPointsAfterResetTitle": "Начальное количество очков",
+  "@settingsPointsAfterResetTitle": {
+    "description": "Settings screen. Title for add points on long tap",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenTitle": "Настройки",
+  "@settingsScreenTitle": {
+    "description": "Settings screen. Screen title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageTitle": "Сброс счета",
+  "@resetAllScoresMessageTitle": {
+    "description": "Main screen. Reset all scores message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageContent": "Это действие приведет к обнулению очков у всех игроков. Вы уверенны?",
+  "@resetAllScoresMessageContent": {
+    "description": "Main screen. Reset all scores message content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageConfirmAction": "Да, сбросить",
+  "@resetAllScoresMessageConfirmAction": {
+    "description": "Main screen. Reset all scores message confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noActionTitle": "Нет",
+  "@noActionTitle": {
+    "description": "Reject action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageTitle": "Удаление всех игроков",
+  "@removeAllPlayersMessageTitle": {
+    "description": "Main screen. Remove all scores message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageContent": "Это действие приведет к удалению всех игроков и потере очков. Вы уверенны?",
+  "@removeAllPlayersMessageContent": {
+    "description": "Main screen. Remove all scores message content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageConfirmAction": "Да, удалить",
+  "@removeAllPlayersMessageConfirmAction": {
+    "description": "Main screen. Reset all scores message confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerDialogTitle": "Создать игрока",
+  "@createPlayerDialogTitle": {
+    "description": "Create player dialog. Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerNamePlaceHolder": "Введите имя здесь",
+  "@createPlayerNamePlaceHolder": {
+    "description": "Create player dialog. Name placeholder",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerSelectColor": "Выберите цвет:",
+  "@createPlayerSelectColor": {
+    "description": "Create player dialog. Select color title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "okActionTitle": "Ok",
+  "@okActionTitle": {
+    "description": "Ok action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelActionTitle": "Отмена",
+  "@cancelActionTitle": {
+    "description": "Cancel action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "playerDeletionDialogTitle": "Удаление игрока",
+  "@playerDeletionDialogTitle": {
+    "description": "Player deletion dialog. Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "playerDeletionDialogContent": "Вы действительно хотите удалить игрока?",
+  "@playerDeletionDialogContent": {
+    "description": "Player deletion dialog. Content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyPlayersListTitle": "Добавьте игроков чтобы начать игру",
+  "@emptyPlayersListTitle": {
+    "description": "Players empty list title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseScreenSubscribeTitle": "Подписка",
+  "@purchaseScreenSubscribeTitle": {
+    "description": "Purchase screen subscribe title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseDescription": "Для использования всех функция приложения, Вам необходимо купить его или подписаться",
+  "@purchaseDescription": {
+    "description": "Purchases description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseProfit_1": "Неограниченое количество игроков",
+  "@purchaseProfit_1": {
+    "description": "Purchase screen: first profit text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseYearlyTitle": "Год",
+  "@purchaseYearlyTitle": {
+    "description": "Yearly subscription title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseYearlyDescription": "Платите каждый код для использования приложения без ограничений",
+  "@purchaseYearlyDescription": {
+    "description": "Yearly subscription description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseForeverTitle": "Навсегда",
+  "@purchaseForeverTitle": {
+    "description": "Forever purchase title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseForeverDescription": "Купите один раз - используйте приложение без ограничений всегда",
+  "@purchaseForeverDescription": {
+    "description": "Forever purchase description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseStoreDisclaimerIOS": "Вы можете скачать приложение Sprichворка и получить бесплатную помощь в приложении. Для того чтобы использовать все приложение целиком, необходимо приобрести подписку. Для приобретения подписки необходимо оплатить указанную в приложении плату. Плата будет взиматься с кредитной карты, связанной с вашим счетом в iTunes. Подписка будет продлена автоматически, если вы не отмените текущую подписку по крайней мере за 24 часа до ее окончания. Плата за продление подписки взимается с вашей кредитной карты, привязанной к учетной записи iTunes, за 24 часа до окончания срока действия текущей подписки. Текущая подписка не может быть прекращена. Вы можете отключить автоматическое продление, изменив соответствующие настройки в своем аккаунте",
+  "@purchaseStoreDisclaimerIOS": {
+    "description": "Store subscription disclaimer ios",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseStoreDisclaimerAndroid": "Вы можете скачать приложение Sprichворка и получить бесплатную помощь в приложении. Для того чтобы использовать все приложение целиком, необходимо приобрести подписку. Для приобретения подписки необходимо оплатить указанную в приложении плату. Плата будет взиматься с кредитной карты, связанной с вашим аккаунтом в Google Play. Подписка будет продлена автоматически, если вы не отмените текущую подписку по крайней мере за 24 часа до ее окончания. Плата за продление подписки взимается с вашей кредитной карты, привязанной к учетной записи Google Play, за 24 часа до окончания срока действия текущей подписки. Текущая подписка не может быть прекращена. Вы можете отключить автоматическое продление, изменив соответствующие настройки в своем аккаунте",
+  "@purchaseStoreDisclaimerAndroid": {
+    "description": "Store subscription disclaimer android",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellation": "Отмена подписки:",
+  "@purchaseSubscriptionCancellation": {
+    "description": "Subscription cancellation instruction title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationAction": "Перейти к инструкции",
+  "@purchaseSubscriptionCancellationAction": {
+    "description": "Subscription cancellation instruction action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationLinkIOS": "https://support.apple.com/ru-ru/HT202039",
+  "@purchaseSubscriptionCancellationLinkIOS": {
+    "description": "Cancellation instruction ios",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationLinkAndroid": "https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=ru",
+  "@purchaseSubscriptionCancellationLinkAndroid": {
+    "description": "Cancellation instruction android",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editPlayerDialogTitle": "Настройки\nигрока",
+  "@editPlayerDialogTitle": {
+    "description": "Players edit dialog title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyTitle": "Политика конфиденцеальности:",
+  "@purchasePrivacyPolicyTitle": {
+    "description": "Privacy policy title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyActionTitle": "Перейти к политике конфиденцеальности",
+  "@purchasePrivacyPolicyActionTitle": {
+    "description": "Privacy policy action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyLink": "https://docs.google.com/document/d/1fYKfuS_FHDfBm3paAy3t7yM6vyPJ9i4AE9ug6-APrV8/view",
+  "@purchasePrivacyPolicyLink": {
+    "description": "Link to privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseTitle": "Условия использования",
+  "@purchaseTermsOfUseTitle": {
+    "description": "Terms of use title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseActionTitle": "Перейти к условиям использования",
+  "@purchaseTermsOfUseActionTitle": {
+    "description": "Terms of use action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseLink": "https://docs.google.com/document/d/16hNqkZY2mIOF8JlPfWpKAbZG0r8dLxz2lnHv6n0-CZU/view",
+  "@purchaseTermsOfUseLink": {
+    "description": "Link to terms of use",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseRetryAction": "Повторить",
+  "@purchaseRetryAction": {
+    "description": "Retry action on purchase screen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutAppButtonText": "О приложении",
+  "@aboutAppButtonText": {
+    "description": "About App button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpButtonText": "Помощь",
+  "@helpButtonText": {
+    "description": "Help button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultPlayerName": "Игрок",
+  "@defaultPlayerName": {
+    "description": "Default player name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultGameName": "Моя игра",
+  "@defaultGameName": {
+    "description": "Default game name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseError": "Ошибка покупки!",
+  "@purchaseError": {
+    "description": "Purchase error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPlayerButtonText": "Новый игрок",
+  "@addPlayerButtonText": {
+    "description": "Add player button name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateTheApp": "Оцените приложение",
+  "@rateTheApp": {
+    "description": "Rate the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "О приложении",
+  "@aboutApp": {
+    "description": "About app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Политика конфиденциальности",
+  "@privacyPolicy": {
+    "description": "Privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsOfUse": "Условия использования",
+  "@termsOfUse": {
+    "description": "Terms of Use",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscription": "Подписка",
+  "@subscription": {
+    "description": "Subscription",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "App2count",
+  "@appName": {
+    "description": "App2count",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptionText": "Вы можете скачать приложение 'app2score' и получить бесплатную помощь в приложении. Для того чтобы использовать все приложение целиком, необходимо приобрести подписку. Для приобретения подписки необходимо оплатить указанную в приложении плату. Плата будет взиматься с кредитной карты, связанной с вашим счетом в iTunes. Подписка будет продлена автоматически, если вы не отмените текущую подписку по крайней мере за 24 часа до ее окончания. Плата за продление подписки взимается с вашей кредитной карты, привязанной к учетной записи iTunes, за 24 часа до окончания срока действия текущей подписки. Текущая подписка не может быть прекращена. Вы можете отключить автоматическое продление, изменив соответствующие настройки в своем аккаунте.",
+  "@subscriptionText": {
+    "description": "Subscription text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backButton": "Назад",
+  "@backButton": {
+    "description": "Back button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Настройки",
+  "@settings": {
+    "description": "Settings",
+    "type": "text",
+    "placeholders": {}
+  },
+  "soundOption": "Включить звук",
+  "@soundOption": {
+    "description": "Sound option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hapticOption": "Включить вибрацию",
+  "@appName": {
+    "description": "Haptics option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText1": "Используя App2count, Вы соглашаетесь с\n",
+  "@agreementText1": {
+    "description": "Agreement text 1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText2": "Условиями и Положениями",
+  "@agreementText2": {
+    "description": "Agreement text 2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText3": " и ",
+  "@agreementText3": {
+    "description": "Agreement text 3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText4": "Политикой конфиденциальности.",
+  "@agreementText4": {
+    "description": "Agreement text 4",
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewLicenses": "Просмотреть лицензии",
+  "@viewLicenses": {
+    "description": "View licenses",
+    "type": "text",
+    "placeholders": {}
+  },
+  "closeButton": "Закрыть",
+  "@closeButton": {
+    "description": "Close button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveButton": "Сохранить",
+  "@saveButton": {
+    "description": "Save button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveColorButton": "Сохранить цвет",
+  "@saveColorButton": {
+    "description": "Save color button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteButton": "Удалить",
+  "@deleteButton": {
+    "description": "Delete button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorTitle": "Цвет",
+  "@colorTitle": {
+    "description": "Color title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameTitle": "Имя",
+  "@nameTitle": {
+    "description": "Name title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scoreTitle": "Очки",
+  "@scoreTitle": {
+    "description": "Score title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptionTitle": "Чтобы использовать все функции приложения, Вам надо приобрести подписку",
+  "@subscriptionTitle": {
+    "description": "Subscription title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "alreadyPurchased": "Уже приобрели подписку?",
+  "@alreadyPurchased": {
+    "description": "Restore purchases title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restorePurchases": "Восстановить покупки",
+  "@restorePurchases": {
+    "description": "Restore Purchases button",
+    "type": "text",
+    "placeholders": {}
+  }
+}

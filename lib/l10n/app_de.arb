@@ -1,0 +1,430 @@
+{
+  "@@last_modified": "2020-09-29T13:16:35.952019",
+  "@@locale": "de",
+  "settingsPointsToIncreaseTitle": "Wie viele Punkte können durch einfaches Antippen hinzugefügt werden?",
+  "@settingsPointsToIncreaseTitle": {
+    "description": "Settings screen. Title for add points on tap",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsPointsAfterResetTitle": "Startpunktzahl",
+  "@settingsPointsAfterResetTitle": {
+    "description": "Settings screen. Initial number of points after reset",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenTitle": "Einstellungen",
+  "@settingsScreenTitle": {
+    "description": "Settings screen. Screen title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageTitle": "Alle Bewertungen zurücksetzen",
+  "@resetAllScoresMessageTitle": {
+    "description": "Main screen. Reset all scores message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageContent": "Diese Aktion setzt den Punktestand der Spieler zurück. Sind Sie sicher?",
+  "@resetAllScoresMessageContent": {
+    "description": "Main screen. Reset all scores message content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageConfirmAction": "Ja, zurücksetzen",
+  "@resetAllScoresMessageConfirmAction": {
+    "description": "Main screen. Reset all scores message confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noActionTitle": "Nein",
+  "@noActionTitle": {
+    "description": "Reject action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageTitle": "Alle Spieler löschen",
+  "@removeAllPlayersMessageTitle": {
+    "description": "Main screen. Remove all scores message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageContent": "Durch diese Aktion werden alle Spieler gelöscht. Sind Sie sicher?",
+  "@removeAllPlayersMessageContent": {
+    "description": "Main screen. Remove all scores message content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageConfirmAction": "Ja, entfernen",
+  "@removeAllPlayersMessageConfirmAction": {
+    "description": "Main screen. Reset all scores message confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerDialogTitle": "Spieler erstellen",
+  "@createPlayerDialogTitle": {
+    "description": "Create player dialog. Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerNamePlaceHolder": "Name hier eingeben",
+  "@createPlayerNamePlaceHolder": {
+    "description": "Create player dialog. Name placeholder",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerSelectColor": "Farbe auswählen",
+  "@createPlayerSelectColor": {
+    "description": "Create player dialog. Select color title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "okActionTitle": "Ok",
+  "@okActionTitle": {
+    "description": "Ok action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelActionTitle": "Abbrechen",
+  "@cancelActionTitle": {
+    "description": "Cancel action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "playerDeletionDialogTitle": "Spieler löschen",
+  "@playerDeletionDialogTitle": {
+    "description": "Player deletion dialog. Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "playerDeletionDialogContent": "Wollen Sie Spieler wirklich löschen?",
+  "@playerDeletionDialogContent": {
+    "description": "Player deletion dialog. Content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyPlayersListTitle": "Spieler hinzufügen, um das Spiel zu beginnen",
+  "@emptyPlayersListTitle": {
+    "description": "Players empty list title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editPlayerDialogTitle": "Spieler\nbearbeiten",
+  "@editPlayerDialogTitle": {
+    "description": "Players edit dialog title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseScreenSubscribeTitle": "Abonnieren",
+  "@purchaseScreenSubscribeTitle": {
+    "description": "Purchase screen subscribe title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseDescription": "Um alle Funktionen der App nutzen zu können, sollten Sie für immer kaufen oder abonnieren",
+  "@purchaseDescription": {
+    "description": "Purchases description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseProfit_1": "Unbegrenzte Spieler im Spiel",
+  "@purchaseProfit_1": {
+    "description": "Purchase screen: first profit text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseYearlyTitle": "Jährlich",
+  "@purchaseYearlyTitle": {
+    "description": "Yearly subscription title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseYearlyDescription": "Zahlen Sie jedes Jahr für die uneingeschränkte Nutzung der Anwendung",
+  "@purchaseYearlyDescription": {
+    "description": "Yearly subscription description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseForeverTitle": "Für immer",
+  "@purchaseForeverTitle": {
+    "description": "Forever purchase title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseForeverDescription": "Einmal kaufen - unbegrenzte Anwendung für immer nutzen!",
+  "@purchaseForeverDescription": {
+    "description": "Forever purchase description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseStoreDisclaimerIOS": "Sie können die Sprichворка App herunterladen und kostenlose In-App-Hilfe erhalten. Um die App im vollen Umfang zu nutzen und täglich ein Sprichwort zu erhalten müssen Sie ein Abonnement erwerben. Für den Erwerb des Abonnements muss der in der App angezeigte Betrag bezahlt werden. Der Betrag wird beim Kauf von der mit Ihrem iTunes Konto verknüpften Kreditkarte abgebucht. Das Abonnement verlängert sich automatisch wenn Sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnements kündigen. Der Betrag für die Verlängerung Ihres Abonnements wird 24 Stunden vor Ablauf des Abonnements von der mit Ihrem iTunes Konto verknüpften Kreditkarte abgebucht. Das Abonnement kann nicht vorzeitig gekündigt werden. Sie können aber die automatische Verlängerung durch Ändern der entsprechenden Einstellungen in Ihrem Konto deaktivieren",
+  "@purchaseStoreDisclaimerIOS": {
+    "description": "Store subscription disclaimer ios",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseStoreDisclaimerAndroid": "Sie können die Sprichворка App herunterladen und kostenlose In-App-Hilfe erhalten. Um die App im vollen Umfang zu nutzen und täglich ein Sprichwort zu erhalten müssen Sie ein Abonnement erwerben. Für den Erwerb des Abonnements muss der in der App angezeigte Betrag bezahlt werden. Der Betrag wird beim Kauf von der mit Ihrem Play Store Konto verknüpften Kreditkarte abgebucht. Das Abonnement verlängert sich automatisch wenn Sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnements kündigen. Der Betrag für die Verlängerung Ihres Abonnements wird 24 Stunden vor Ablauf des Abonnements von der mit Ihrem Play Store Konto verknüpften Kreditkarte abgebucht. Das Abonnement kann nicht vorzeitig gekündigt werden. Sie können aber die automatische Verlängerung durch Ändern der entsprechenden Einstellungen in Ihrem Konto deaktivieren",
+  "@purchaseStoreDisclaimerAndroid": {
+    "description": "Store subscription disclaimer android",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellation": "Abbestellung des Abonnements:",
+  "@purchaseSubscriptionCancellation": {
+    "description": "Subscription cancellation instruction title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationAction": "Zur Stornierungsanweisung gehen",
+  "@purchaseSubscriptionCancellationAction": {
+    "description": "Subscription cancellation instruction action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationLinkIOS": "https://support.apple.com/de-de/HT202039",
+  "@purchaseSubscriptionCancellationLinkIOS": {
+    "description": "Cancellation instruction ios",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationLinkAndroid": "https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=de",
+  "@purchaseSubscriptionCancellationLinkAndroid": {
+    "description": "Cancellation instruction android",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyTitle": "Datenschutzerklärung:",
+  "@purchasePrivacyPolicyTitle": {
+    "description": "Privacy policy title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyActionTitle": "Zur Datenschutzerklärung",
+  "@purchasePrivacyPolicyActionTitle": {
+    "description": "Privacy policy action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyLink": "https://docs.google.com/document/d/1a0N6CDY5CgaoE1gdCHysri2l45QxpAizi_YQ1Fn1LRU/view",
+  "@purchasePrivacyPolicyLink": {
+    "description": "Link to privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseTitle": "Nutzungsbedingungen:",
+  "@purchaseTermsOfUseTitle": {
+    "description": "Terms of use title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseActionTitle": "Weiter zu den Nutzungsbedingungen",
+  "@purchaseTermsOfUseActionTitle": {
+    "description": "Terms of use action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseLink": "https://docs.google.com/document/d/16hNqkZY2mIOF8JlPfWpKAbZG0r8dLxz2lnHv6n0-CZU/view",
+  "@purchaseTermsOfUseLink": {
+    "description": "Link to terms of use",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseRetryAction": "Wiederholen",
+  "@purchaseRetryAction": {
+    "description": "Retry action on purchase screen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutAppButtonText": "Impressum",
+  "@aboutAppButtonText": {
+    "description": "About App button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpButtonText": "Hilfe",
+  "@helpButtonText": {
+    "description": "Help button",
+    "type": "text",
+    "placeholders": {}
+  },
+ "defaultPlayerName": "Norbert",
+  "@defaultPlayerName": {
+    "description": "Default player name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultGameName": "Beispielspiel",
+  "@defaultGameName": {
+    "description": "Default game name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseError": "Fehler beim Kaufen!",
+  "@purchaseError": {
+    "description": "Purchase error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPlayerButtonText": "Neuen Spieler erstellen",
+  "@addPlayerButtonText": {
+    "description": "Add player button name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateTheApp": "Bewerten Sie die App",
+  "@rateTheApp": {
+    "description": "Rate the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "Informationen",
+  "@aboutApp": {
+    "description": "About app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Datenschutzerklärung",
+  "@privacyPolicy": {
+    "description": "Privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsOfUse": "Nutzungsbedingungen",
+  "@termsOfUse": {
+    "description": "Terms of Use",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscription": "Subscription",
+  "@subscription": {
+    "description": "Subscription",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "App2count",
+  "@appName": {
+    "description": "App2count",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptionText": "Sie können die App2score herunterladen und kostenlose In-App-Hilfe erhalten. Um die App im vollen Umfang zu nutzen, müssen Sie ein Abonnement erwerben. Für den Erwerb des Abonnements muss der in der App angezeigte Betrag bezahlt werden. Der Betrag wird beim Kauf von der mit Ihrem iTunes Konto verknüpften Kreditkarte abgebucht. Das Abonnement verlängert sich automatisch, wenn Sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnements kündigen. Der Betrag für die Verlängerung Ihres Abonnements wird 24 Stunden vor Ablauf des Abonnements von der mit Ihrem iTunes Konto verknüpften Kreditkarte abgebucht. Das Abonnement kann nicht vorzeitig gekündigt werden. Sie können aber die automatische Verlängerung durch Ändern der entsprechenden Einstellungen in Ihrem Konto deaktivieren.",
+  "@subscriptionText": {
+    "description": "Subscription text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backButton": "Zurück",
+  "@backButton": {
+    "description": "Back button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Einstellungen",
+  "@settings": {
+    "description": "Settings",
+    "type": "text",
+    "placeholders": {}
+  },
+  "soundOption": "Sound aktivieren",
+  "@soundOption": {
+    "description": "Sound option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hapticOption": "Vibration aktivieren",
+  "@appName": {
+    "description": "Haptics option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText1": "Mit der Nutzung von App2count, Sie erklären sich mit den\n",
+  "@agreementText1": {
+    "description": "Agreement text 1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText2": "Nutzungsbedinungen",
+  "@agreementText2": {
+    "description": "Agreement text 2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText3": " und ",
+  "@agreementText3": {
+    "description": "Agreement text 3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText4": "der Datenschutzerklärung einverstanden.",
+  "@agreementText4": {
+    "description": "Agreement text 4",
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewLicenses": "Genutzte Bibliothekslizenzen einsehen",
+  "@viewLicenses": {
+    "description": "View licenses",
+    "type": "text",
+    "placeholders": {}
+  },
+  "closeButton": "Schließen",
+  "@closeButton": {
+    "description": "Close button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveButton": "Speichern",
+  "@saveButton": {
+    "description": "Save button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveColorButton": "Farbe speichern",
+  "@saveColorButton": {
+    "description": "Save color button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteButton": "Löschen",
+  "@deleteButton": {
+    "description": "Delete button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorTitle": "Farbe",
+  "@colorTitle": {
+    "description": "Color title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameTitle": "Name",
+  "@nameTitle": {
+    "description": "Name title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scoreTitle": "Spielstand",
+  "@scoreTitle": {
+    "description": "Score title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptionTitle": "Um alle Funktionen der App nutzen zu können müssen Sie ein Abo erwerben oder die App kaufen.",
+  "@subscriptionTitle": {
+    "description": "Subscription title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "alreadyPurchased": "Haben Sie die App bereits gekauft?",
+  "@alreadyPurchased": {
+    "description": "Restore purchases title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restorePurchases": "Kauf wiederherstellen",
+  "@restorePurchases": {
+    "description": "Restore Purchases button",
+    "type": "text",
+    "placeholders": {}
+  }
+}

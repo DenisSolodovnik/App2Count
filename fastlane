@@ -1,0 +1,17 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "build IPA file and upload it to apps.xiag.ch"
+  lane :score2xiag do
+    build_app(scheme: "Runner", export_options: {method: "development"}) # "ad-hoc", "app-store"
+    sh('curl -X POST -F "version=0.11.0" -F "info=Test" -F "group=app2score" -F "app=app2score-ios" -F "bundle=ch.xiag.scorekeeper" -F "title=App2Score" -F "file=@$IPA_OUTPUT_PATH" -u "$LDAP_USERNAME:$LDAP_PASSWD" https://apps.xiag.ch/upload')
+  end
+# add actions here: https://docs.fastlane.tools/actions
+
+  desc "build app and upload it to the AppStore/Testflight"
+  lane :tf do
+    #sync_code_signing(type: "appstore")    # see code signing guide for more information
+    build_app(scheme: "Runner", export_options: {method: "app-store"})
+    upload_to_testflight
+  end
+end

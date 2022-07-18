@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:drawable="@drawable/launch_background" />
+    <item android:drawable="@drawable/ic_splash"
+        android:bottom="214dp"
+        android:top="214dp"
+        android:left="100dp"
+        android:right="100dp"
+        android:gravity="center"
+        android:tileMode="repeat"
+        />
+</layer-list>

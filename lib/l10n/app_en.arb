@@ -1,0 +1,430 @@
+{
+  "@@last_modified": "2020-09-29T13:16:35.952019",
+  "@@locale": "en",
+  "settingsPointsToIncreaseTitle": "How many points to add on tap?",
+  "@settingsPointsToIncreaseTitle": {
+    "description": "Settings screen. Title for add points on tap",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsPointsAfterResetTitle": "Initial number of points",
+  "@settingsPointsAfterResetTitle": {
+    "description": "Settings screen. Initial number of points after reset",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenTitle": "Settings",
+  "@settingsScreenTitle": {
+    "description": "Settings screen. Screen title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageTitle": "Reset all scores",
+  "@resetAllScoresMessageTitle": {
+    "description": "Main screen. Reset all scores message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageContent": "This action will reset players score. Are you sure?",
+  "@resetAllScoresMessageContent": {
+    "description": "Main screen. Reset all scores message content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAllScoresMessageConfirmAction": "Yes, reset",
+  "@resetAllScoresMessageConfirmAction": {
+    "description": "Main screen. Reset all scores message confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noActionTitle": "No",
+  "@noActionTitle": {
+    "description": "Reject action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageTitle": "Delete all players",
+  "@removeAllPlayersMessageTitle": {
+    "description": "Main screen. Remove all scores message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageContent": "This action will delete all players. Are you sure?",
+  "@removeAllPlayersMessageContent": {
+    "description": "Main screen. Remove all scores message content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeAllPlayersMessageConfirmAction": "Yes, remove",
+  "@removeAllPlayersMessageConfirmAction": {
+    "description": "Main screen. Reset all scores message confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerDialogTitle": "New Player",
+  "@createPlayerDialogTitle": {
+    "description": "Create player dialog. Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerNamePlaceHolder": "Name",
+  "@createPlayerNamePlaceHolder": {
+    "description": "Create player dialog. Name placeholder",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createPlayerSelectColor": "Select color",
+  "@createPlayerSelectColor": {
+    "description": "Create player dialog. Select color title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "okActionTitle": "Ok",
+  "@okActionTitle": {
+    "description": "Ok action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelActionTitle": "Cancel",
+  "@cancelActionTitle": {
+    "description": "Cancel action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "playerDeletionDialogTitle": "Player deletion",
+  "@playerDeletionDialogTitle": {
+    "description": "Player deletion dialog. Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "playerDeletionDialogContent": "Do you want to delete player?",
+  "@playerDeletionDialogContent": {
+    "description": "Player deletion dialog. Content",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyPlayersListTitle": "Add players to start the game",
+  "@emptyPlayersListTitle": {
+    "description": "Players empty list title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editPlayerDialogTitle": "Edit\nplayer",
+  "@editPlayerDialogTitle": {
+    "description": "Players edit dialog title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseScreenSubscribeTitle": "Subscribe",
+  "@purchaseScreenSubscribeTitle": {
+    "description": "Purchase screen subscribe title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseDescription": "To use all functions of the app, you should buy forever or subscribe",
+  "@purchaseDescription": {
+    "description": "Purchases description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseProfit_1": "Unlimited players in game",
+  "@purchaseProfit_1": {
+    "description": "Purchase screen: first profit text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseYearlyTitle": "Yearly",
+  "@purchaseYearlyTitle": {
+    "description": "Yearly subscription title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseYearlyDescription": "Pay every year for using application without restrictions",
+  "@purchaseYearlyDescription": {
+    "description": "Yearly subscription description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseForeverTitle": "Forever",
+  "@purchaseForeverTitle": {
+    "description": "Forever purchase title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseForeverDescription": "Buy once - use unlimited application forever!",
+  "@purchaseForeverDescription": {
+    "description": "Forever purchase description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseStoreDisclaimerIOS": "You can download the application Scorekeeper and get free help in the application. In order to use the entire application, you need to purchase a subscription. To buy a subscription, you need to pay the fee specified in the application. The fee will be charged to the credit card associated with your iTunes account. Your subscription will renew automatically unless you cancel your current subscription at least 24 hours before it ends. Your credit card linked to your iTunes account will be charged 24 hours before the expiration of your current subscription. Your current subscription cannot be canceled. You can turn off automatic renewal by changing the appropriate settings in your account.",
+  "@purchaseStoreDisclaimerIOS": {
+    "description": "Store subscription disclaimer ios",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseStoreDisclaimerAndroid": "You can download the application Scorekeeper and get free help in the application. In order to use the entire application, you need to purchase a subscription. To buy a subscription, you need to pay the fee specified in the application. The fee will be charged to the credit card associated with your Play Store account. Your subscription will renew automatically unless you cancel your current subscription at least 24 hours before it ends. Your credit card linked to your Play Store account will be charged 24 hours before the expiration of your current subscription. Your current subscription cannot be canceled. You can turn off automatic renewal by changing the appropriate settings in your account.",
+  "@purchaseStoreDisclaimerAndroid": {
+    "description": "Store subscription disclaimer android",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellation": "Subscription cancellation:",
+  "@purchaseSubscriptionCancellation": {
+    "description": "Subscription cancellation instruction title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationAction": "Go to cancellation instruction",
+  "@purchaseSubscriptionCancellationAction": {
+    "description": "Subscription cancellation instruction action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationLinkIOS": "https://support.apple.com/en-us/HT202039",
+  "@purchaseSubscriptionCancellationLinkIOS": {
+    "description": "Cancellation instruction ios",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseSubscriptionCancellationLinkAndroid": "https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en",
+  "@purchaseSubscriptionCancellationLinkAndroid": {
+    "description": "Cancellation instruction android",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyTitle": "Privacy policy:",
+  "@purchasePrivacyPolicyTitle": {
+    "description": "Privacy policy title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyActionTitle": "Go to privacy policy",
+  "@purchasePrivacyPolicyActionTitle": {
+    "description": "Privacy policy action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchasePrivacyPolicyLink": "https://docs.google.com/document/d/1m56Fsl6EySzmdGJIonyTHZywrovyh4FX3kZE_mr7-t0/view",
+  "@purchasePrivacyPolicyLink": {
+    "description": "Link to privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseTitle": "Terms of use:",
+  "@purchaseTermsOfUseTitle": {
+    "description": "Terms of use title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseActionTitle": "Go to terms of use",
+  "@purchaseTermsOfUseActionTitle": {
+    "description": "Terms of use action title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseTermsOfUseLink": "https://docs.google.com/document/d/16hNqkZY2mIOF8JlPfWpKAbZG0r8dLxz2lnHv6n0-CZU/view",
+  "@purchaseTermsOfUseLink": {
+    "description": "Link to terms of use",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseRetryAction": "Retry",
+  "@purchaseRetryAction": {
+    "description": "Retry action on purchase screen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutAppButtonText": "About app",
+  "@aboutAppButtonText": {
+    "description": "About App button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpButtonText": "Help",
+  "@helpButtonText": {
+    "description": "Help button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultPlayerName": "Player",
+  "@defaultPlayerName": {
+    "description": "Default player name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultGameName": "My game",
+  "@defaultGameName": {
+    "description": "Default game name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchaseError": "Purchase error!",
+  "@purchaseError": {
+    "description": "Purchase error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPlayerButtonText": "New player",
+  "@addPlayerButtonText": {
+    "description": "Add player button name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateTheApp": "Rate the app",
+  "@rateTheApp": {
+    "description": "Rate the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "About app",
+  "@aboutApp": {
+    "description": "About app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Privacy policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsOfUse": "Terms of Use",
+  "@termsOfUse": {
+    "description": "Terms of Use",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscription": "Subscription",
+  "@subscription": {
+    "description": "Subscription",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "App2count",
+  "@appName": {
+    "description": "App2count",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptionText": "You can download the App2Score and get free help in the application. In order to use the entire application, you need to purchase a subscription. To buy a subscription, you need to pay the fee specified in the application. The fee will be charged to the credit card associated with your iTunes account. Your subscription will renew automatically unless you cancel your current subscription at least 24 hours before it ends. Your credit card linked to your iTunes account will be charged 24 hours before the expiration of your current subscription. Your current subscription cannot be canceled. You can turn off automatic renewal by changing the appropriate settings in your account.",
+  "@subscriptionText": {
+    "description": "Subscription text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backButton": "Back",
+  "@backButton": {
+    "description": "Back button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings",
+    "type": "text",
+    "placeholders": {}
+  },
+  "soundOption": "Sound enable",
+  "@soundOption": {
+    "description": "Sound option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hapticOption": "Haptics enable",
+  "@appName": {
+    "description": "Haptics option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText1": "By using Appcount, you agree to the\n",
+  "@agreementText1": {
+    "description": "Agreement text 1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText2": "Terms and Conditions",
+  "@agreementText2": {
+    "description": "Agreement text 2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText3": " and ",
+  "@agreementText3": {
+    "description": "Agreement text 3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreementText4": "Privacy policy.",
+  "@agreementText4": {
+    "description": "Agreement text 4",
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewLicenses": "View licenses",
+  "@viewLicenses": {
+    "description": "View licenses",
+    "type": "text",
+    "placeholders": {}
+  },
+  "closeButton": "Close",
+  "@closeButton": {
+    "description": "Close button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveButton": "Save",
+  "@saveButton": {
+    "description": "Save button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveColorButton": "Save color",
+  "@saveColorButton": {
+    "description": "Save color button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteButton": "Delete",
+  "@deleteButton": {
+    "description": "Delete button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorTitle": "Color",
+  "@colorTitle": {
+    "description": "Color title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameTitle": "Name",
+  "@nameTitle": {
+    "description": "Name title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scoreTitle": "Score",
+  "@scoreTitle": {
+    "description": "Score title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptionTitle": "To use all functions of the app, you need to buy the subscription",
+  "@subscriptionTitle": {
+    "description": "Subscription title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "alreadyPurchased": "Already Purchased Subscription?",
+  "@alreadyPurchased": {
+    "description": "Restore purchases title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restorePurchases": "Restore Purchases",
+  "@restorePurchases": {
+    "description": "Restore Purchases button",
+    "type": "text",
+    "placeholders": {}
+  }
+}
